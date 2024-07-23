@@ -1,7 +1,2 @@
-<pre>
-```
-function example() {
-  console.log("Hello, World!Welcome to TechElliptica");
-}
-```
-</pre>
+To run your tests using Maven, use the command 
+`mvn clean test`
