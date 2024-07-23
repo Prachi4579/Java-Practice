@@ -1,1 +1,1 @@
-![GitHub Logo](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+![TEchElliptica Logo]([https://techelliptica.com/images/logo.png])
