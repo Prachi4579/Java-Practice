@@ -1,11 +1,5 @@
-1. Main Topic 1
-    - Subtopic 1.1
-        * Detail 1.1.1
-        * Detail 1.1.2
-    - Subtopic 1.2
-        * Detail 1.2.1
-        * Detail 1.2.2
-2. Main Topic 2
-    - Subtopic 2.1
-        * Detail 2.1.1
-     
+<details>
+  <summary>Click to expand</summary>
+  This is the hidden content that will be shown when the user clicks "Click to expand". You can include text, images, lists, or any other content you want to keep hidden by default.
+</details>
+
