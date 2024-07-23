@@ -1,1 +1,2 @@
-![TEchElliptica Logo]([https://techelliptica.com/images/logo.png])
+![Tech Elliptica Logo](https://techelliptica.com/logo.png)
+
